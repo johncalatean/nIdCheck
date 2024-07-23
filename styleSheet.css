@@ -1,34 +1,37 @@
-#validInputBox {
+#validateInputBox {
 }
 
-#validButton {
+#validateButton {
 }
 
-#validOutputSex {
+#validateOutputSex {
 }
 
-#validOutputDoB {
+#validateOutputDayOfBirth {
 }
 
-#validOutputMoB {
+#validateOutputMonthOfBirth {
 }
 
-#validOutputYoB {
+#validateOutputYearOfBirth {
 }
 
-#validOutputCoB {
+#validateOutputCountryOfBirth {
+}
+
+#generateInputDayOfBirth {
+}
+
+#generateInputMonthOfBirth {
+}
+
+#generateInputYearOfBirth {
+}
+
+#generateInputCountryOfBirth {
 }
 
 #generateInputSex {
-}
-
-#generateInputDoB {
-}
-
-#generateInputMoB {
-}
-
-#generateInputYoB {
 }
 
 #generateButton {
