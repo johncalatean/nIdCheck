@@ -1,56 +1,44 @@
-#vButton {
-	display: inline;
+#validInputBox {
 }
 
-#vDoB {
-	display: inline;
+#validButton {
 }
 
-#vMoB {
-	display: inline:
+#validOutputSex {
 }
 
-#vYoB {
-	display: inline;
+#validOutputDoB {
 }
 
-#vCoB {
-	display: inline;
+#validOutputMoB {
 }
 
-#iSex {
-	display: inline;
+#validOutputYoB {
 }
 
-
-#iDoB {
-	display: inline;
+#validOutputCoB {
 }
 
-#iMoB {
-	display: inline;
+#generateInputSex {
 }
 
-#iYoB {
-	display: inline;
+#generateInputDoB {
 }
 
-#iCoB {
-	display: inline;
+#generateInputMoB {
 }
 
-#gButton {
-	display: inline;
+#generateInputYoB {
 }
 
-#gNiNbox {
-	display: inline;
+#generateButton {
 }
 
-#gFirstName {
-	display: inline;
+#generateOutputBox {
 }
 
-#gSecondName {
-	display: inline;
+#generateFirstName {
+}
+
+#generateSecondName {
 }
