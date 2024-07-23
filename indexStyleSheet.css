@@ -18,6 +18,11 @@
 	display: inline;
 }
 
+#iSex {
+	display: inline;
+}
+
+
 #iDoB {
 	display: inline;
 }
@@ -31,6 +36,14 @@
 }
 
 #iCoB {
+	display: inline;
+}
+
+#gButton {
+	display: inline;
+}
+
+#gNiNbox {
 	display: inline;
 }
 
