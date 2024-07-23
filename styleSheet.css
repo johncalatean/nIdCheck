@@ -1,5 +1,13 @@
+.separatorBlock {
+	display: block;
+}
+
+#validationParagraph {
+}
+
 #validateInputBox {
 	color: red;
+	display: inline;
 }
 
 #validateButton {
@@ -9,6 +17,7 @@
 
 #validateOutputSex {
 	color: red;
+	display: inline;
 }
 
 #validateOutputDayOfBirth {
@@ -31,8 +40,17 @@
 	display: inline;
 }
 
+#generationParagraph {
+}
+
+#generateInputSex {
+	color: red;
+	display: inline;
+}
+
 #generateInputDayOfBirth {
 	color: red;
+	display: inline;
 }
 
 #generateInputMonthOfBirth {
@@ -50,17 +68,14 @@
 	display: inline;
 }
 
-#generateInputSex {
+#generateButton {
 	color: red;
 	display: inline;
 }
 
-#generateButton {
-	color: red;
-}
-
 #generateOutputBox {
 	color: red;
+	display: inline;
 }
 
 #generateFirstName {
