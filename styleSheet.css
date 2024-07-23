@@ -4,6 +4,7 @@
 
 #validateButton {
 	color: red;
+	display: inline;
 }
 
 #validateOutputSex {
@@ -12,18 +13,22 @@
 
 #validateOutputDayOfBirth {
 	color: red;
+	display: inline;
 }
 
 #validateOutputMonthOfBirth {
 	color: red;
+	display: inline;
 }
 
 #validateOutputYearOfBirth {
 	color: red;
+	display: inline;
 }
 
 #validateOutputCountryOfBirth {
 	color: red;
+	display: inline;
 }
 
 #generateInputDayOfBirth {
@@ -32,18 +37,22 @@
 
 #generateInputMonthOfBirth {
 	color: red;
+	display: inline;
 }
 
 #generateInputYearOfBirth {
 	color: red;
+	display: inline;
 }
 
 #generateInputCountryOfBirth {
 	color: red;
+	display: inline;
 }
 
 #generateInputSex {
 	color: red;
+	display: inline;
 }
 
 #generateButton {
@@ -56,8 +65,10 @@
 
 #generateFirstName {
 	color: red;
+	display: inline;
 }
 
 #generateSecondName {
 	color: red;
+	display: inline;
 }
