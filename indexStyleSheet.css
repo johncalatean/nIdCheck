@@ -1,3 +1,43 @@
-p {
+#vButton {
+	display: inline;
+}
+
+#vDoB {
+	display: inline;
+}
+
+#vMoB {
+	display: inline:
+}
+
+#vYoB {
+	display: inline;
+}
+
+#vCoB {
+	display: inline;
+}
+
+#iDoB {
+	display: inline;
+}
+
+#iMoB {
+	display: inline;
+}
+
+#iYoB {
+	display: inline;
+}
+
+#iCoB {
+	display: inline;
+}
+
+#gFirstName {
+	display: inline;
+}
+
+#gSecondName {
 	display: inline;
 }
