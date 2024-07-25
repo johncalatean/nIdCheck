@@ -1,3 +1,3 @@
 function analyzeNi () {
-	document.getElementbyId("validateOutputSex").innertHTML = "toDo";
+	document.getElementById("validateOutputSex").innertHTML = "toDo";
 }
